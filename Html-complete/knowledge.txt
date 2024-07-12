@@ -1,0 +1,2 @@
+code to link css with html -> <link rel="stylesheet" href="filename.css">
+code to link js with html -> <script src="filename.js"></script>
