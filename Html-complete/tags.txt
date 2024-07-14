@@ -1,0 +1,3 @@
+heading tag(h[1-6]) -> used to put heading in html
+paragraph tag(p) -> just used to write paragraph
+anchor tag(a) -> used to prove link 

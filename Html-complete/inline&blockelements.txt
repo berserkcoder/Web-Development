@@ -1,0 +1,4 @@
+inline elements ---> it takes the amount of width thats needed
+block elements ---> it takes the whole width of that place
+
+u can change inline elements to block using display property in css
