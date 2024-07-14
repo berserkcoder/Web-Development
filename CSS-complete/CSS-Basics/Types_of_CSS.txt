@@ -1,0 +1,3 @@
+Inline CSS ---> we write the style tag inside that particular html tag 
+Internal CSS ---> we write style tag inside of head tag
+External CSS ---> we create a separate css file and link it with the html file

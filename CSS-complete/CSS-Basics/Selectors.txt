@@ -1,0 +1,13 @@
+element selector ---> just write the name of element to apply css 
+class selector ---> just put a (.) before writing the name of class to apply css
+id selector ---> just put a (#) before writing the name of id to apply css
+child selector ---> just write the parent element and then write the child element and put (>) sign between them to apply css
+decedent selector ---> just write ancestor element put one space and write decendent element tp apply css
+universal selector ---> just write (*) to apply css
+pseudo selector ---> applies css in particular conditions
+example of pseudo selecorts
+a:visited ---> applies css if it is visited
+a:link ---> applies css if it is not visited
+a:active ---> applies css if it is been clicked
+a:hover ---> spplies css if it is been hovered
+p:first-child ---> applies css if element is the first child of any other element
