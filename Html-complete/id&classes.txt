@@ -1,0 +1,4 @@
+id (#)---> unique identifier that is it cant be same for 2 things
+class (.)---> it is not a unique identifier it is kind of a group that have that similar property
+
+we can give multiple classes to same thing but its not same for id
