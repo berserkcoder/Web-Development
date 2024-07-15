@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Model Explanation</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .box{
+            color: yellow;
+            background-color: aqua;
+        }
+        .box1{
+            padding: 10px;
+            border: 5px solid blue;
+            margin: 35px;
+            height: 200px;
+            box-sizing: border-box;
+        }
+        .box2{
+            padding: 10px;
+            border: 5px solid black;
+            margin: 25px;
+            height: 200px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <div class="box box1">I am a box</div>
+    <div class="box box2">I am another box</div>
+    <p>if margin of two is colliding then the bigger margin gets applied and small margin doesnot get applied to that part where they are colliding </p>
+</body>
+</html>
